@@ -1,0 +1,137 @@
+select  max(SALARY),  OCCUPATION from Males where OCCUPATION like 'Stocking Associate' group by OCCUPATION;
+select  avg(SALARY),  OCCUPATION from Males where OCCUPATION like 'Stocking Associate' group by OCCUPATION;
+mysql> select avg(SALARY) from Females where OCCUPATION like 'Warehouse Supervisor';
++--------------+
+| avg(SALARY)  |
++--------------+
+| 54032.912000 |
++--------------+
+1 row in set (0.01 sec)
+
+mysql> select avg(SALARY) from Males where OCCUPATION like 'Stocking Associate';
++--------------+
+| avg(SALARY)  |
++--------------+
+| 22648.433333 |
++--------------+
+1 row in set (0.00 sec)
+
+mysql> select avg(SALARY) from Males where OCCUPATION like 'Inventory Retrieving Associate';                                                                  
++--------------+
+| avg(SALARY)  |
++--------------+
+| 22808.353846 |
++--------------+
+1 row in set (0.00 sec)
+
+mysql> select avg(SALARY) from Males where OCCUPATION like 'Customer Service Representative';
++--------------+
+| avg(SALARY)  |
++--------------+
+| 24639.036364 |
++--------------+
+1 row in set (0.00 sec)
+
+mysql> select avg(SALARY) from Males where OCCUPATION like 'Category Manager';
++--------------+
+| avg(SALARY)  |
++--------------+
+| 63241.810000 |
++--------------+
+1 row in set (0.00 sec)
+
+mysql> select avg(SALARY) from Females where OCCUPATION like 'Stocking Associate';
++--------------+
+| avg(SALARY)  |
++--------------+
+| 23899.600000 |
++--------------+
+1 row in set (0.00 sec)
+
+mysql> select avg(SALARY) from Females where OCCUPATION like 'Inventory Retrieving Associate';                                                                
++--------------+
+| avg(SALARY)  |
++--------------+
+| 23346.834545 |
++--------------+
+1 row in set (0.00 sec)
+
+mysql> select avg(SALARY) from Females where OCCUPATION like 'Customer Service Representative';
++--------------+
+| avg(SALARY)  |
++--------------+
+| 26791.830769 |
++--------------+
+1 row in set (0.00 sec)
+
+mysql> select avg(SALARY) from Females where OCCUPATION like 'Category Manager';
++--------------+
+| avg(SALARY)  |
++--------------+
+| 65834.996000 |
++--------------+
+1 row in set (0.00 sec)
+
+mysql> select count(SALARY) from Males where OCCUPATION like 'Stocking Associate';
++---------------+
+| count(SALARY) |
++---------------+
+|            60 |
++---------------+
+1 row in set (0.00 sec)
+
+mysql>  select count(SALARY) from Females where OCCUPATION like 'Stocking Associate';                                                                   
++---------------+
+| count(SALARY) |
++---------------+
+|            45 |
++---------------+
+1 row in set (0.00 sec)
+
+mysql> select count(SALARY) from Males where OCCUPATION like 'Inventory Retrieving Associate';                                                                
++---------------+
+| count(SALARY) |
++---------------+
+|            26 |
++---------------+
+1 row in set (0.00 sec)
+
+mysql> select count(SALARY) from Females where OCCUPATION like 'Inventory Retrieving Associate';                                                              
++---------------+
+| count(SALARY) |
++---------------+
+|            11 |
++---------------+
+1 row in set (0.00 sec)
+
+mysql> select count(SALARY) from Males where OCCUPATION like 'Customer Service Representative';
++---------------+
+| count(SALARY) |
++---------------+
+|            22 |
++---------------+
+1 row in set (0.00 sec)
+
+mysql> select count(SALARY) from Females where OCCUPATION like 'Customer Service Representative';                                                             
++---------------+
+| count(SALARY) |
++---------------+
+|            13 |
++---------------+
+1 row in set (0.00 sec)
+
+mysql> select count(SALARY) from Males where OCCUPATION like 'Category Manager';
++---------------+
+| count(SALARY) |
++---------------+
+|             6 |
++---------------+
+1 row in set (0.00 sec)
+
+mysql> select count(SALARY) from Females where OCCUPATION like 'Category Manager';                                                                            
++---------------+
+| count(SALARY) |
++---------------+
+|            15 |
++---------------+
+1 row in set (0.01 sec)

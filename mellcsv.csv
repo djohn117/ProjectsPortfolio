@@ -1,0 +1,748 @@
+EMPLOYEE_ID,GENDER,DATE_OF_BIRTH,DATE_OF_HIRE,TERMINATION_DATE,OCCUPATION,SALARY,Knowledge of Work,Communication,Teamwork,Leadership,Quality of Work
+001,Female,1943-05-01,1975-10-11,1990-11-26,Stocking Associate,24960.00,3,3,2,1,1
+002,Male,1945-04-21,1990-07-11,,Stocking Associate,20800.00,1,3,1,1,3
+003,Female,1947-03-16,1981-05-23,,Stocking Associate,24481.60,2,3,1,1,2
+004,Female,1948-02-16,1992-04-16,,Warehouse Receiving Associate,23296.00,2,3,2,3,1
+005,Female,1948-08-04,1989-08-01,,Board Member,60000.00,1,2,1,1,2
+006,Male,1986-01-09,2015-06-01,,Customer Service Help Desk,37024.00,3,2,3,1,1
+007,Female,1949-02-09,1994-10-27,2016-03-21,Inventory Associate,22068.80,3,3,1,1,3
+008,Female,1949-02-22,1998-01-01,,Inventory Supervisor,54347.02,3,1,2,1,3
+009,Male,1949-04-10,1999-08-11,,Marketing Coordinator,54288.00,3,1,1,3,3
+010,Female,1986-02-01,2007-12-10,,Marketing Coordinator,54288.00,3,2,3,2,2
+011,Female,1984-03-25,2008-08-13,2016-01-08,Warehouse Receiving Associate,24024.00,1,1,1,2,3
+012,Female,1950-05-05,1995-12-06,2012-10-20,Stocking Associate,21964.80,2,3,3,2,2
+013,Female,1986-12-24,2012-04-12,,Stocking Associate,26291.20,3,2,3,3,1
+014,Female,1950-08-24,1990-08-30,,Stocking Associate,26291.20,3,2,3,3,3
+015,Male,1950-09-07,1997-09-18,2004-10-19,Accountant,35131.20,3,2,2,2,2
+016,Male,1976-02-15,2003-11-05,2008-11-28,Accounting Associate,35131.20,1,3,1,2,2
+017,Female,1950-10-04,1981-05-23,2015-11-26,Stocking Associate,21216.00,2,1,3,3,1
+018,Male,1950-10-25,1994-10-12,2012-04-13,Supervisor,59743.58,3,2,1,3,1
+019,Male,1950-12-21,1981-05-23,,Stocking Associate,21840.00,2,3,2,2,1
+020,Female,1951-02-04,1997-01-06,,Senior Category Manager,86178.56,2,3,3,2,3
+021,Female,1951-02-14,1990-01-25,2010-08-20,Stocking Associate,22057.00,2,2,1,1,3
+022,Female,1968-05-01,2000-01-05,,Stocking Associate,22057.00,1,2,1,1,3
+023,Female,1980-07-22,2013-01-12,,Stocking Associate,24627.20,3,3,3,2,3
+024,Female,1951-07-24,1992-08-04,,Stocking Associate,21840.00,3,2,2,2,2
+025,Female,1951-08-13,1990-09-22,,Inventory Supervisor,52000.00,2,1,2,3,3
+026,Female,1951-09-24,1994-04-20,,Inventory Retrieving Associate,22877.58,1,1,3,1,1
+027,Female,1951-10-04,2000-12-27,,Manager of Operations,81549.00,2,2,2,2,2
+028,Female,1952-01-15,1990-05-16,,Field App Engineer,74450.00,1,3,3,1,1
+029,Male,1952-01-17,1988-12-21,,Stocking Associate,21923.20,3,1,3,3,1
+030,Male,1992-09-02,2016-12-07,,Stocking Associate,21923.20,2,3,2,2,1
+031,Female,1952-02-14,1990-07-14,,Senior Copywriter,66300.00,1,1,2,3,1
+032,Male,1990-02-04,2014-12-27,,Stocking Associate,21840.00,1,3,1,3,3
+033,Male,1952-05-14,1981-05-23,2007-12-29,Stocking Associate,21840.00,2,2,3,2,1
+034,Female,1952-05-15,1993-08-10,,Inventory Retrieving Associate,23046.40,2,1,2,1,2
+035,Female,1952-06-24,1998-09-15,,Inventory Supervisor,48637.68,2,3,3,2,3
+036,Male,1952-07-22,1999-12-09,,Agent Quality Control Monitoring,38792.00,2,3,3,2,3
+037,Male,1952-08-10,2000-04-05,,Stocking Associate,23025.60,2,2,1,3,1
+038,Female,1958-03-10,1990-05-16,,Stocking Associate,23025.60,2,3,3,2,2
+039,Female,1952-08-16,1994-06-09,,Inventory Retrieving Associate,24356.80,2,3,2,1,1
+040,Male,1952-08-22,1995-10-27,2015-09-07,Accountant AP,38654.00,1,1,2,2,2
+041,Male,1952-10-03,1998-01-01,,Inventory Retrieving Associate,24835.20,3,3,1,1,1
+042,Male,1952-09-10,1999-08-11,,Stocking Associate,24585.60,3,2,3,2,2
+043,Female,1952-09-12,1981-05-23,2005-01-29,Inventory Cycle Associate,24190.40,1,2,2,1,3
+044,Female,1953-03-06,1990-12-06,,Stocking Associate,22484.80,1,1,3,3,3
+045,Female,1953-06-03,1990-08-30,,Stocking Associate,23608.00,1,2,2,3,2
+046,Female,1953-03-15,1997-09-18,,Stocking Associate,24419.20,3,1,3,2,3
+047,Male,1953-06-28,2000-02-05,,Customer Service Associate,28111.20,1,2,1,1,3
+048,Male,1953-08-02,1994-10-12,,Shipping Associate,21840.00,1,2,1,1,2
+049,Male,1964-11-25,1996-11-10,,Stocking Associate,21840.00,2,1,3,1,2
+050,Male,1953-09-01,2000-07-27,,Stocking Associate,22131.20,2,3,2,1,3
+051,Male,1953-10-15,1997-01-06,,Inventory Retrieving Associate,23858.00,2,1,3,2,2
+052,Male,1953-12-19,1995-01-25,,Customer Service Help Desk,27040.00,3,2,3,2,3
+053,Male,1954-01-27,1991-01-12,,Stocking Associate,25168.00,3,3,3,1,2
+054,Female,1954-03-09,1992-08-04,,Stocking Associate,24356.80,3,3,3,2,3
+055,Female,1952-07-05,1981-05-23,2007-02-24,Stocking Associate,24356.80,1,3,2,2,1
+056,Female,1954-03-21,2012-09-22,2015-07-08,Stocking Associate,25292.80,3,2,3,2,3
+057,Male,1954-05-24,2000-12-27,,Inventory Transfer Associate,23920.00,3,3,1,3,2
+058,Male,1954-01-03,1994-04-20,,Inventory Retrieving Associate,21923.20,2,1,3,3,2
+059,Female,1954-07-20,1988-12-21,,Dir Content Operation,121647.76,2,2,3,2,2
+060,Female,1959-02-05,1990-07-14,2010-05-21,Warehouse Supervisor,60269.82,3,1,2,1,3
+061,Female,1954-07-25,2001-07-29,,Warehouse Supervisor,60269.82,1,1,3,1,1
+062,Male,1954-08-16,1993-08-10,,Stocking Associate,21840.00,2,2,3,1,3
+063,Male,1954-02-01,1998-09-15,,Stocking Associate,21840.00,1,1,1,2,2
+064,Male,1954-10-21,2001-10-22,,Stocking Associate,22235.20,2,3,1,1,1
+065,Male,1954-11-03,1999-12-09,,Sorter Associate,21216.00,2,2,3,1,3
+066,Female,1960-01-09,2007-04-05,2010-10-07,Stocking Associate,21923.20,1,2,2,2,1
+067,Male,1955-04-04,1994-06-09,,Customer Service Associate,22055.46,1,1,1,2,1
+068,Male,1955-04-29,2007-10-27,2009-10-11,Customer Service Associate,24564.80,2,1,3,2,3
+069,Female,1955-07-08,2010-01-01,2013-04-13,Stocking Associate,22672.00,3,1,3,1,2
+070,Female,1955-08-12,1999-08-11,,Stocking Associate,23358.40,2,1,3,1,3
+071,Male,1955-09-04,1992-08-13,,Stocking Associate,21320.00,3,1,3,2,1
+072,Male,1955-09-30,1990-12-06,,Inventory Retrieving Associate,25812.80,2,3,1,3,3
+073,Male,1955-11-02,2012-09-18,2014-09-04,Inventory Retrieving Associate,25812.80,3,2,3,2,2
+074,Female,1955-10-12,1990-08-30,,Stocking Associate,21840.00,1,2,1,2,2
+075,Female,1955-12-07,2000-02-05,,Sr. VP Sales & Marketing,340159.82,3,2,3,3,3
+076,Male,1955-12-11,1994-10-12,,Stocking Associate,21840.00,2,3,1,1,1
+077,Male,1955-12-24,2000-07-27,,Stocking Associate,21840.00,1,3,1,3,2
+078,Male,1956-05-16,1995-01-25,2014-10-04,Manager of Operations,62247.38,3,3,2,1,3
+079,Female,1956-07-09,2011-01-12,2014-09-02,Stocking Associate,21840.00,3,3,3,3,1
+080,Male,1956-12-02,1992-08-04,2006-05-24,Warehouse Supervisor,47278.14,1,1,3,1,2
+081,Female,1956-04-02,1990-09-22,,Supervisor,47278.14,2,2,1,2,1
+082,Female,1956-08-01,1994-04-20,,Stocking Associate,25292.80,3,2,3,2,2
+083,Male,1956-10-24,2000-12-27,,Stocking Associate,23025.60,1,2,2,3,2
+084,Female,1956-10-31,1995-05-16,,Chairman Holding,225000.00,3,2,2,3,3
+085,Male,1956-11-01,1988-12-21,,Stocking Associate,21216.00,2,3,2,1,2
+086,Female,1956-11-28,1990-07-14,,Stocking Associate,22692.80,3,2,3,1,2
+087,Male,1956-12-12,2001-07-29,,Stocking Associate,22568.00,1,2,2,1,1
+088,Male,1957-01-07,2009-08-10,2011-10-24,Inventory Retrieving Associate,22068.80,3,1,2,2,2
+089,Female,1957-12-02,1998-09-15,,Repair Technician,31848.00,2,3,1,1,3
+090,Male,1957-01-29,2001-10-22,,Stocking Associate,21840.00,2,3,1,1,3
+091,Male,1957-03-11,1999-12-09,2006-03-06,Clerk Accounting AP,24539.00,1,1,1,1,2
+092,Female,1957-12-21,2012-04-05,2015-06-27,Stocking Associate,25168.00,3,3,3,1,1
+093,Female,1957-03-22,1994-06-09,,Sr Mgr Project,70307.60,2,2,2,2,2
+094,Female,1957-04-01,1995-10-27,,Warehouse Associate,22713.60,3,1,3,3,1
+095,Female,1986-06-10,2011-01-01,,Warehouse Associate,22713.60,2,3,1,3,1
+096,Female,1957-04-19,1999-08-11,,Customer Service Representative,24043.00,1,1,2,1,2
+097,Male,1957-07-12,1992-08-13,,Customer Service Representative,24043.00,3,2,3,1,3
+098,Female,1957-05-01,1990-12-06,,Technician IT Warehouse,46654.40,1,2,2,1,1
+099,Female,1957-11-12,1990-08-30,,Stocking Associate,28412.80,3,3,3,1,2
+100,Male,1987-05-17,2012-09-18,,Stocking Associate,23940.80,3,3,2,2,3
+101,Male,1957-08-06,2000-02-05,,Administrator HR,53081.60,1,3,2,3,3
+102,Female,1957-06-28,1994-10-12,,Manager of Operations,76500.06,3,1,3,3,2
+103,Male,1957-07-09,2000-07-27,,Customer Service Associate,21840.00,3,3,2,1,2
+104,Male,1980-03-05,2008-01-06,,Customer Service Associate,21840.00,3,1,1,3,2
+105,Female,1957-07-15,1997-01-06,,Assoc Facilities III General Agent,30462.00,3,3,1,3,1
+106,Female,1954-06-02,1990-05-16,2013-08-26,Assoc Facilities III General Agent,30462.00,1,2,1,2,3
+107,Female,1957-08-05,1995-01-25,,Shipping Supervisor,49498.00,2,3,1,1,3
+108,Female,1957-08-20,1991-01-12,,Stocking Associate,25251.20,3,3,2,1,1
+109,Male,1957-11-11,1992-08-04,,Stocking Associate,24169.60,3,1,1,2,1
+110,Female,1958-01-20,1990-09-22,,Stocking Associate,24523.20,1,3,1,3,2
+111,Female,1958-02-10,1994-04-20,,Inventory Retrieving Associate,22131.20,2,1,3,2,3
+112,Female,1958-05-21,2000-12-27,,Assoc Facilities I GA,24960.00,2,3,3,2,2
+113,Male,1958-03-21,1988-12-21,,Inventory Retrieving Associate,22214.40,1,2,1,1,1
+114,Male,1958-06-07,1990-07-14,,Stocking Associate,20800.00,1,2,1,2,1
+115,Male,1958-06-29,2001-07-29,,General Agent Supervisor,53575.34,3,1,3,2,2
+116,Male,1989-09-09,2010-11-13,,General Agent Associate,31545.00,3,3,1,2,2
+117,Female,1958-07-20,1993-08-10,,Head Wholesale,109304.00,3,2,2,3,3
+118,Male,1958-09-26,1998-09-15,,VP Customer Service,152420.84,2,2,3,2,2
+119,Male,1958-08-22,2001-10-22,,Stocking Associate,21923.20,3,3,1,3,3
+120,Female,1958-09-19,1999-12-09,,Stocking Associate,23857.60,3,2,3,3,1
+121,Female,1958-09-26,2000-04-05,2014-02-10,Assoc Facilities I GA,23090.00,2,3,1,1,3
+122,Female,1958-11-04,1994-06-09,,Manager of Information Technology,110000.00,3,3,2,3,2
+123,Male,1959-02-18,1995-10-27,,Customer Service Representative,27872.00,3,2,2,2,3
+124,Male,1959-02-24,1998-01-01,,Inventory Retrieving Associate,21840.00,2,2,2,3,1
+125,Male,1959-03-26,2013-08-11,2016-08-17,Stocking Associate,21840.00,3,3,3,2,3
+126,Female,1959-04-02,1992-08-13,,Sr Web Editor,62955.00,3,2,2,2,2
+127,Male,1959-05-09,1990-12-06,,Dir Creative Marketing,139562.54,2,2,2,3,3
+128,Female,1959-07-02,1990-08-30,,Eng Conveyor Systems,74191.00,1,1,3,3,1
+129,Male,1959-07-14,1997-09-18,2011-10-31,Customer Service Representative Help Desk,27580.80,3,2,2,3,3
+130,Male,1959-11-15,2000-02-05,,Stocking Associate,22089.60,2,3,3,3,3
+131,Male,1959-12-20,1994-10-12,,Stocking Associate,25334.40,2,3,2,3,1
+132,Male,1960-03-05,2000-07-27,,Shipping Supervisor,54617.16,2,3,1,2,2
+133,Male,1960-03-28,1997-01-06,,Customer Service Representative,24960.00,3,1,1,3,1
+134,Male,1960-04-10,1995-01-25,,Stocking Associate,21653.00,2,1,2,2,2
+135,Female,1960-05-01,2011-01-12,2013-11-25,Technician Maintenance,46756.00,2,1,3,1,1
+136,Female,1960-10-13,1992-08-04,,Technician Maintenance,46756.00,2,3,1,3,3
+137,Female,1960-05-05,1990-09-22,,Stocking Associate,24960.00,3,1,2,1,2
+138,Female,1960-05-28,1994-04-20,,Stocking Associate,21840.00,2,2,1,3,2
+139,Male,1960-06-10,2000-12-27,,Stocking Associate,21840.00,3,1,3,1,2
+140,Female,1960-02-16,1990-05-16,,Manager of Warehouse Operations,101000.12,3,3,2,3,2
+141,Female,1960-06-30,1988-12-21,,Technician IT Warehouse,44179.20,3,1,3,2,3
+142,Male,1960-07-16,2014-07-14,2017-05-14,Stocking Associate,24440.00,1,1,3,1,1
+143,Female,1960-08-02,2001-07-29,,Stocking Associate,21923.20,1,2,1,1,3
+144,Female,1960-09-15,1993-08-10,,Warehouse Associate,24960.00,1,1,1,1,2
+145,Female,1960-09-24,1998-09-15,,Manager of Warehouse Operations,88867.48,3,3,2,2,2
+146,Male,1961-01-07,2001-10-22,,Inventory Retrieving Associate,23358.40,3,2,1,2,1
+147,Male,1961-03-18,1999-12-09,,Inventory Retrieving Associate,22464.00,3,3,2,3,2
+148,Male,1961-03-21,2000-04-05,,Customer Service Rep Associate,22149.00,2,2,3,1,3
+149,Male,1961-04-05,1994-06-09,,Customer Service Representative,24086.40,1,2,2,2,2
+150,Male,1961-11-15,1995-10-27,,Customer Service Representative,24086.40,3,2,2,1,1
+151,Female,1961-05-14,1998-01-01,,Assoc Facilities III GA,26135.00,1,1,1,2,1
+152,Male,1961-05-31,1999-08-11,,Customer Service Representative,24939.20,3,1,1,2,1
+153,Female,1970-06-30,2015-08-13,2016-02-25,Category Manager,76671.40,3,3,3,2,3
+154,Male,1961-07-25,1995-12-06,,VP Admin Sales and Mktg,180164.14,2,2,2,2,3
+155,Male,1961-08-22,1990-08-30,,Shipping Lead,29120.00,2,3,2,3,2
+156,Female,1961-09-02,1997-09-18,,Stocking Associate,21840.00,2,1,2,3,1
+157,Male,1961-07-31,2000-02-05,,Stocking Associate,22297.60,3,1,2,3,1
+158,Female,1961-09-30,1994-10-12,,Sr. Category Manager Mktg,93929.94,2,2,2,3,2
+159,Female,1961-11-05,2000-07-27,,Stocking Associate,24960.00,3,3,3,2,1
+160,Female,1961-12-15,2005-01-06,2012-08-25,Dir Sales Channel Mgmt,74603.00,2,1,2,3,2
+161,Male,1961-02-01,1995-01-25,,Inventory Retrieving Associate,23997.00,2,2,3,2,3
+162,Male,1961-12-18,1991-01-12,,Inventory Retrieving Associate,23997.00,2,3,2,1,1
+163,Female,1962-04-10,1992-08-04,,Administrator Purchasing,50000.00,1,2,3,3,1
+164,Female,1962-05-12,1990-09-22,,Dir Comp & Benefits HR,134375.02,2,2,3,3,2
+165,Female,1962-07-19,1994-04-20,,Inventory Supervisor,51030.20,2,1,2,2,2
+166,Female,1962-08-01,2000-12-27,,Inventory Supervisor,51030.20,3,1,3,2,3
+167,Male,1962-08-12,1990-05-16,,Stocking Associate,21840.00,1,2,3,1,1
+168,Female,1963-03-08,1988-12-21,,Supervisor,55000.00,2,1,1,1,3
+169,Male,1963-03-21,1990-07-14,,Inventory Retrieving Associate,21840.00,1,2,3,2,3
+170,Female,1963-03-28,2001-07-29,,Dir Training & Contracts,88881.00,3,2,3,3,2
+171,Female,1963-05-08,1993-08-10,,Sr Analyst Corp Business Systems,90964.56,3,2,2,2,3
+172,Female,1963-06-03,1998-09-15,,Receiving Supervisor,56920.50,2,2,2,2,2
+173,Female,1963-10-15,2001-10-22,,Customer Service Representative,33311.00,3,2,1,2,3
+174,Female,1963-04-23,1999-12-09,,Customer Service Representative,33311.00,3,2,2,1,3
+175,Male,1963-06-15,2000-04-05,,Stocking Associate,22256.00,1,1,2,3,3
+176,Male,1963-06-26,1994-06-09,,Stocking Associate,22256.00,3,2,1,2,1
+177,Female,1963-07-27,1989-07-19,,Sup Contact Cust Serv,43713.80,1,1,1,3,2
+178,Male,1980-07-30,2015-02-14,2016-08-22,Account Executive Small Accounts,39998.00,2,3,3,1,1
+179,Female,1963-09-12,1994-08-23,,Warehouse Associate,26416.00,2,3,1,2,3
+180,Female,1963-10-27,2000-06-12,,Technician Conveyor,49337.60,2,3,2,2,2
+181,Female,1964-02-02,1988-05-06,,Mgr Country,110249.88,2,3,2,3,2
+182,Female,1964-02-24,2000-11-23,2017-06-12,Assoc Facilities III GA,31512.00,1,2,1,1,3
+183,Female,1964-12-02,1995-06-14,,Facilities Assoc III,31512.00,1,2,3,2,1
+184,Female,1964-03-05,1993-06-12,,Network Engineer,67320.00,2,1,2,2,3
+185,Female,1964-07-27,2006-06-25,2007-10-03,Inventory Retrieving Associate,23483.20,3,2,2,2,2
+186,Female,1964-08-15,1995-12-17,,VP International,197025.00,3,2,3,3,2
+187,Male,1964-03-28,2000-01-05,,Stocking Associate,22484.80,2,2,3,2,1
+188,Male,1964-08-24,2000-03-24,,Stocking Associate,23379.20,3,2,1,1,1
+189,Male,1964-08-27,2001-08-13,,Stocking Associate,21840.00,1,1,3,3,2
+190,Male,1964-09-02,2009-12-30,2011-03-14,Accountant AR,33172.00,1,1,3,3,3
+191,Male,1964-12-18,1993-10-20,,Customer Service Representative,22880.00,2,2,1,2,3
+192,Female,1964-12-28,1989-07-19,,General Agent,35360.00,2,2,1,3,3
+193,Male,1965-01-28,1992-02-14,,Inventory Retrieving Associate,22068.80,1,3,2,3,3
+194,Female,1965-04-06,1994-08-23,,Sr Mgr Facility Maintenance,106050.10,3,2,3,2,2
+195,Female,1965-07-13,2000-06-12,,Warehouse Associate,25272.00,2,2,1,3,2
+196,Female,1965-09-02,2012-05-06,2014-04-30,Architect,82204.98,2,2,2,2,2
+197,Female,1965-09-05,1988-11-23,,Stocking Associate,24377.60,1,1,1,3,1
+198,Male,1965-12-23,1995-06-14,,Customer Service Associate,27851.20,1,3,1,1,1
+199,Male,1965-12-23,1993-06-12,,Customer Service Associate,27851.20,2,2,1,1,2
+200,Female,1965-12-26,1992-06-25,,Stocking Associate,21299.20,2,2,2,1,2
+201,Male,1965-12-27,2013-12-17,2016-05-11,Customer Service Representative,24960.00,3,1,2,1,3
+202,Female,1966-03-30,2015-01-05,2017-10-29,Inventory Lead,27310.40,1,2,1,3,3
+203,Female,1966-06-05,2000-03-24,,Product Manager,63464.00,2,1,1,2,3
+204,Female,1970-02-12,2011-06-27,2013-01-06,Product Manager,63464.00,2,3,3,1,2
+205,Female,1966-06-11,2001-08-13,,Warehouse Supervisor,49105.16,1,3,1,2,3
+206,Male,1966-07-02,2012-12-30,2015-07-27,Account Executive Small Accounts,40000.00,1,2,1,2,2
+207,Female,1966-08-18,1996-11-10,,Inventory Retrieving Associate,23337.60,3,1,1,2,1
+208,Female,1966-08-19,1993-10-20,,Sr Mgr Safety,84507.28,2,3,3,2,2
+209,Male,1966-08-19,1989-07-19,,Stocking Associate,23275.20,3,2,1,2,1
+210,Female,1966-10-22,1992-02-14,,Assoc Will Call Center,25792.00,3,2,1,1,1
+211,Female,1986-03-02,2013-05-06,,Assoc Will Call Center,25792.00,1,1,2,3,3
+212,Male,1990-11-01,2014-08-23,2017-12-17,Customer Service Representative,25812.80,3,3,2,2,2
+213,Male,1966-12-02,2000-06-12,,Sales Specialist,35713.60,1,2,3,3,2
+214,Male,1966-12-12,2016-05-06,2017-10-14,Inventory Retrieving Associate,22214.40,3,3,2,3,1
+215,Male,1966-12-24,1988-11-23,,Inventory Cycle Associate,24960.00,2,2,3,1,1
+216,Male,1967-02-14,1995-06-14,,Customer Service Associate,24252.80,1,3,2,1,3
+217,Male,1967-03-20,1993-06-12,,Stocking Associate,21840.00,1,1,3,3,2
+218,Male,1967-04-22,1992-06-25,,Sr Dir Product Management,114950.00,2,2,2,3,2
+219,Male,1967-05-24,1990-12-17,,Stocking Associate,24772.80,1,3,3,2,2
+220,Male,1967-06-13,2000-01-05,,HR Business Partner,57119.92,2,3,1,2,2
+221,Female,1967-08-21,2000-03-24,,Photographer Imaging,41159.52,1,1,1,1,2
+222,Female,1967-08-24,2001-08-13,,Stocking Associate,27060.80,3,2,3,2,1
+223,Male,1967-10-06,2015-12-30,2017-01-08,Assoc Inventory Picking,25126.00,2,2,2,3,3
+224,Male,1967-10-21,1996-11-10,,Customer Service Representative,23071.00,3,2,1,3,3
+225,Male,1967-10-21,2012-10-20,2014-02-26,Customer Service Representative,23071.00,1,1,2,2,2
+226,Female,1967-10-22,1999-05-03,,CFO NA Region,208080.08,2,2,2,3,2
+227,Male,1967-11-06,1989-07-19,,Inventory Retrieving Associate,22214.40,2,3,3,1,3
+228,Female,1968-02-01,2003-02-14,2005-06-24,Stocking Associate,23608.00,2,1,2,3,2
+229,Male,1968-02-06,1994-08-23,,Customer Service Associate,20910.00,2,2,1,2,2
+230,Male,1968-02-14,2000-06-12,,Account Executive Small Accounts,41204.80,1,3,2,1,3
+231,Male,1968-02-15,1988-05-06,,Accountant AR,31497.00,3,2,1,3,1
+232,Female,1968-02-20,1988-11-23,,Sr Mgr Fraud Prevention,130690.56,2,2,2,2,2
+233,Male,1968-02-24,1995-06-14,,North America Head of HR,133749.98,2,2,2,2,3
+234,Male,1968-03-13,2011-06-12,2012-07-24,Agent Support Desk Customer Service,26853.00,1,2,3,1,2
+235,Male,1968-04-18,2014-06-25,2016-03-21,Stocking Associate,22880.00,1,3,2,3,3
+236,Female,1968-04-30,1990-12-17,,Stocking Associate,25521.60,3,2,3,3,3
+237,Female,1968-07-07,2000-03-24,,Dir Growth & Retention,115017.50,3,3,2,2,2
+238,Female,1968-07-31,2001-08-13,,Warehouse Associate,25292.80,1,3,3,3,3
+239,Female,1968-10-27,1989-12-30,,Merchandiser MB,50000.00,2,2,2,3,3
+240,Female,1968-11-13,1996-11-10,,Stocking Associate,21840.00,2,2,1,3,1
+241,Male,1968-11-16,1993-10-20,,Stocking Associate,22921.60,1,3,2,3,1
+242,Male,1968-11-16,1989-07-19,,Stocking Associate,22921.60,2,1,1,3,2
+243,Female,1968-11-20,1992-02-14,,Dir Product Management,100038.64,3,2,3,2,2
+244,Female,1968-12-25,1994-08-23,,Sr Category Manager Development,71435.78,3,3,2,2,1
+245,Female,1968-12-25,2000-06-12,,Sr Category Manager Development,71435.78,3,2,3,3,3
+246,Female,1969-02-16,2000-05-06,,General Counsel,210120.04,2,2,3,2,3
+247,Female,1969-04-03,2000-11-23,,Manager of Transporation and Delivery,75313.00,3,2,1,3,3
+248,Male,1969-04-25,1995-06-14,,Agent Claims Transportation,31512.00,2,3,2,3,1
+249,Female,1969-05-13,1993-06-12,,Technician Maintenance,54080.00,1,2,3,2,1
+250,Male,1969-05-31,2002-06-25,2007-06-28,Sr Mgr HR,72328.62,3,1,2,3,2
+251,Female,1969-08-17,1990-12-17,,Merchandiser Warranty Service Rep,50000.00,3,2,3,3,2
+252,Male,1969-08-22,2000-01-05,,VP Marketplace,185500.00,3,2,2,2,3
+253,Male,1969-09-13,2000-03-24,,Stocking Associate,21965.00,2,3,1,1,1
+254,Female,1969-10-01,2001-08-13,,Receiving Associate,24752.00,2,1,2,1,1
+255,Female,1969-10-01,2001-12-30,,Receiving Associate,24752.00,1,2,3,2,1
+256,Male,1969-11-12,1996-11-10,,Stocking Associate,24960.00,3,3,2,3,3
+257,Female,1970-01-01,1993-10-20,,Administrator Purchasing,50750.00,2,3,3,2,3
+258,Female,1970-01-25,2012-12-03,,Director of International Business,95182.88,2,2,3,3,3
+259,Female,1970-02-03,2011-05-31,,Warehouse Receiving Lead,30056.00,3,2,1,3,1
+260,Female,1970-02-03,2008-09-04,2011-05-31,Warehouse Receiving Lead,30056.00,2,2,3,1,2
+261,Female,1970-02-09,2007-05-01,,Technician IT Warehouse,54371.20,1,3,1,2,1
+262,Female,1970-02-25,2007-11-26,,Telecom Engineer,75174.00,3,3,3,2,2
+263,Female,1970-04-10,2007-03-29,,Inventory Retrieving Associate,27726.40,3,3,2,3,3
+264,Male,1970-04-27,2005-01-25,,Stocking Associate,21840.00,1,3,3,1,1
+265,Male,1970-04-27,2005-01-25,,Stocking Associate,21840.00,2,2,3,2,1
+266,Female,1970-05-02,2002-12-12,,Packaging Associate,25625.60,2,1,3,1,1
+267,Female,1970-05-26,2004-09-22,,Receiving Associate,25292.80,3,2,2,3,2
+268,Male,1970-06-14,2006-07-12,,Stocking Associate,20800.00,1,3,1,3,2
+269,Female,1970-08-12,2013-09-16,,Dir Advertising Sales MGR,136212.96,3,3,2,2,2
+270,Male,1970-08-24,2016-09-20,,Customer Retention Supervisor,48000.00,3,1,2,1,3
+271,Male,1970-09-26,2006-12-05,,Stocking Associate,23504.00,2,2,1,2,2
+272,Male,1970-10-18,2010-02-17,,Merch Manager,60028.80,1,3,1,1,1
+273,Female,1970-10-28,2004-03-15,,Sr. Mgr Financial Analysis,104673.92,3,2,3,2,2
+274,Female,1970-10-29,2003-07-28,,Dir App Dev,115282.44,2,3,2,2,2
+275,Female,1971-01-04,2012-10-01,2014-10-19,Warehouse Associate,24065.60,2,3,3,1,2
+276,Male,1971-01-16,2014-08-18,,Inventory Retrieving Associate,22214.40,1,2,1,2,1
+277,Male,1971-03-08,2012-12-30,,Coord Project Legal,36920.00,1,2,2,1,1
+278,Male,1971-05-20,2010-05-29,2013-05-28,Administrator Purchasing,50980.80,2,2,3,2,3
+279,Female,1971-07-09,2003-09-04,,Supervisor,39551.52,1,1,2,3,2
+280,Female,1971-08-28,2014-06-24,,Account Executive Small Accounts,39998.00,3,2,1,2,2
+281,Female,1971-09-04,2008-07-07,,Coord Imaging,39703.10,2,2,1,1,2
+282,Female,1971-09-04,2003-07-23,,Chief Legal Officer Corporate Legal,304673.98,3,2,3,3,3
+283,Female,1971-09-05,2010-09-01,,Sr Corp Counsel,137250.00,3,2,3,2,2
+284,Male,1971-09-22,2011-06-20,,Dir Learning & Organization,118608.62,3,2,2,2,2
+285,Female,1971-10-04,2003-03-13,,Dir Information Security,150000.00,3,3,2,2,3
+286,Female,1971-10-31,2008-05-18,2010-11-01,Warehouse Associate,23920.00,3,2,1,1,2
+287,Female,1971-11-09,2008-11-27,2015-11-16,Warehouse Supervisor,42000.00,2,1,1,1,2
+288,Male,1971-11-10,2003-05-08,,Agent Verification,36421.00,2,3,2,2,3
+289,Female,1971-12-03,2014-05-19,,Warehouse Assistant Supervisor,31200.00,2,2,2,1,1
+290,Female,1971-12-03,2009-12-19,,Warehouse Assistant Supervisor,31200.00,2,2,1,3,2
+291,Male,1971-12-16,2004-06-06,,Assoc Inventory Picking,24960.00,1,2,3,1,3
+292,Male,1972-01-11,2005-04-28,,Dir Legal Affairs,108000.10,3,2,2,2,3
+293,Female,1972-01-25,2003-09-10,,Warehouse Associate,27872.00,3,3,3,2,2
+294,Female,1972-03-03,2005-01-03,,Sup Inventory,50292.06,1,1,2,3,3
+295,Female,1972-04-04,2007-11-12,2011-08-26,Warehouse Associate,24481.60,2,1,3,3,2
+296,Male,1972-04-05,2003-04-09,2003-10-17,Director of International Business,81138.72,2,2,2,2,3
+297,Male,1972-05-06,2012-01-16,2015-05-26,Account Executive Small Accounts,45000.00,1,2,3,2,1
+298,Female,1972-06-24,2010-05-28,,Coord Creative Services,56100.00,3,3,2,2,3
+299,Female,1972-07-01,2010-06-29,2011-06-15,Warehouse Associate,21216.00,2,1,3,3,3
+300,Male,1972-07-17,2003-07-29,,Shipping Supervisor,47865.48,3,1,1,1,1
+301,Female,1972-10-02,2003-12-08,,Dir Backend Sys Backend,117098.02,2,2,2,2,2
+302,Male,1972-10-05,2012-08-08,,Stocking Associate,21216.00,3,2,2,2,1
+303,Male,1972-10-20,2004-10-20,,Stocking Associate,23774.40,2,1,2,3,3
+304,Male,1972-10-20,2008-10-20,2010-11-06,Stocking Associate,23774.40,1,3,1,2,1
+305,Male,1972-12-13,2001-01-22,,Warehouse Supervisor,53939.08,1,2,3,3,3
+306,Female,1972-12-16,2009-11-15,,Domain Head,86394.10,3,3,2,2,3
+307,Female,1973-02-24,2008-01-10,2009-12-29,Sr Accountant Financial,69655.56,3,2,1,2,3
+308,Male,1973-05-02,2003-03-12,,Accountant AP,33555.00,2,1,1,2,3
+309,Male,1973-05-14,2003-12-18,,HR Business Partner,65000.00,3,1,2,3,1
+310,Female,1973-07-19,2003-03-05,,Warehouse Associate,21216.00,3,2,3,3,2
+311,Male,1973-08-20,2008-01-16,,Dir Product Management,100052.42,3,2,2,2,3
+312,Male,1973-09-04,2003-11-19,,Inventory Retrieving Associate,22484.80,3,2,1,2,2
+313,Female,1973-10-01,2010-01-18,,Warehouse Supervisor,58519.76,1,1,3,1,2
+314,Female,1973-10-11,2005-04-14,,Dir Talent Acquisition,125000.00,3,3,3,2,2
+315,Male,1973-10-13,2009-02-27,2015-05-18,Accountant Revenue Accounts Receivable,41995.20,2,3,1,1,3
+316,Male,1973-10-15,2002-06-21,,Inventory Retrieving Associate,24211.20,2,2,2,2,1
+317,Male,1973-11-29,2007-04-11,,Inventory Retrieving Associate,23421.00,3,1,2,2,2
+318,Male,1973-11-29,2007-04-11,,Inventory Retrieving Associate,23421.00,2,3,2,3,3
+319,Male,1973-12-15,2014-07-04,2016-08-22,Stocking Associate,24960.00,3,2,3,3,3
+320,Female,1973-12-27,2013-01-02,2013-07-01,Agent Public Image Customer Service,25916.80,2,2,3,3,1
+321,Male,1973-12-27,2009-07-01,,Account Executive Small Accounts,39998.00,3,3,3,1,1
+322,Male,1974-01-28,2011-08-06,2013-10-17,Category Manager,70338.06,3,3,2,2,2
+323,Female,1974-02-03,2013-11-22,,Merchandiser,55000.00,2,2,1,2,1
+324,Male,1974-02-22,2015-01-09,2016-06-27,Stocking Associate,23483.20,1,1,3,3,3
+325,Male,1974-02-22,2007-10-29,,Stocking Associate,23483.20,3,3,3,1,1
+326,Male,1974-04-15,2014-08-26,2015-09-15,Customer Service Representative,22956.00,2,3,3,2,1
+327,Female,1974-04-23,2008-01-08,,Sales Manager,90000.00,2,2,3,2,2
+328,Female,1974-05-04,2011-07-25,,Engineer Application Developer,72600.00,2,3,3,1,1
+329,Male,1974-06-06,1999-04-19,,Sup Contact Cust Serv,47354.84,1,3,1,3,1
+330,Female,1974-06-08,2011-09-13,,Stocking Associate,29120.00,3,2,3,3,3
+331,Male,1974-06-30,2005-11-25,2013-06-24,Inventory Retrieving Associate,21216.00,3,1,2,1,2
+332,Male,1974-07-13,2016-03-10,,Sr Accountant AP,45011.00,2,3,3,1,3
+333,Female,1974-09-01,2006-04-20,,Administrator Purchasing,55000.00,1,3,1,3,1
+334,Female,1974-11-13,2013-01-21,2013-09-03,Sr Category Mgr,72141.00,2,1,2,3,2
+335,Female,1974-12-11,2004-03-15,,Sr Eng Systems,90000.00,2,2,2,3,2
+336,Female,1975-01-01,2008-07-21,,Inventory Retrieving Associate,20800.00,2,2,3,1,1
+337,Female,1975-01-05,2011-11-20,,Warehouse Associate,24960.00,2,3,3,1,2
+338,Female,1975-02-17,2003-11-19,,Sr Account Executive,61193.60,3,2,1,3,3
+339,Female,1975-02-22,1997-09-03,,Receiving Associate,28579.20,3,1,3,3,1
+340,Male,1975-03-09,2009-04-01,2011-05-20,Receiving Associate,26395.20,1,3,2,1,3
+341,Female,1975-03-24,2006-07-30,2015-04-13,Application Developer Engineer,60000.00,1,2,2,2,2
+342,Female,1975-03-27,2016-05-23,,Data Integration Specialist,52000.00,3,2,3,3,1
+343,Female,1975-03-29,2008-12-25,,Director User Experience & Developer,130521.82,3,3,2,3,2
+344,Female,1975-04-03,2013-08-30,2014-03-24,Merchandiser Input Output,55000.00,2,3,2,1,3
+345,Female,1975-04-19,2004-02-02,,Sr Eng Telecom,90000.00,2,2,2,2,2
+346,Male,1975-05-04,2007-08-29,,Merch Manager,62778.04,2,2,1,2,3
+347,Female,1975-06-18,2003-11-10,,Sr Graphic Designer,75000.00,2,1,3,1,2
+348,Female,1975-06-22,2012-09-19,,Category Manager,70000.00,3,2,2,2,3
+349,Male,1975-07-19,2007-04-16,,Director of Accounting,152712.04,3,3,2,2,3
+350,Male,1975-09-21,2015-11-30,,Stocking Associate,22880.00,1,2,2,3,3
+351,Female,1975-09-22,2003-03-21,2016-03-23,Mgr Content Support Web,52950.30,3,2,1,3,1
+352,Male,1975-10-31,2011-09-22,2014-03-03,Merchandiser Input Output,52000.00,2,2,1,1,3
+353,Female,1975-11-21,2012-02-08,,Sr Dir Category Mktg,130800.02,3,2,2,3,2
+354,Female,1975-11-25,2008-10-31,,Sr Corporate Counselor,130000.00,2,2,2,3,2
+355,Female,1975-12-29,2013-08-05,,Sr Mgr Corp Bus Systems,84567.08,2,3,2,3,2
+356,Female,1976-03-13,2004-08-21,,Sr Dir Corporate Engineer,176850.96,2,3,2,2,3
+357,Female,1976-03-17,2012-05-05,2012-12-31,Sr Designer Web,60000.00,2,2,3,2,3
+358,Female,1976-04-16,2003-01-23,,Sup Contact Customer Service,42444.22,2,2,3,2,1
+359,Female,1976-05-05,2006-03-12,,Sr. VP Operations,274665.56,3,2,3,2,3
+360,Female,1976-05-08,2011-07-10,,Web Content Specialist,40000.00,3,3,2,3,1
+361,Female,1976-07-21,2006-07-21,,Sr Eng App Developer,81203.20,2,3,2,2,3
+362,Female,1976-07-29,2007-10-09,,Dir Financial Planning,145600.00,3,2,2,3,3
+363,Female,1976-08-18,2009-11-02,2014-11-06,Photographer Imaging,37870.35,1,2,1,3,1
+364,Female,1976-08-18,2005-04-11,,Directory of US Marketplace,88935.08,2,3,2,2,2
+365,Female,1976-09-02,2010-11-28,,Sr Recruiter HR,80000.00,3,3,2,2,2
+366,Female,1976-09-10,2008-09-30,,Sr Eng Network,90000.00,2,3,2,2,3
+367,Female,1976-09-16,2005-10-24,2016-03-07,Inventory Supervisor,50000.00,1,2,3,1,3
+368,Female,1976-09-17,2004-07-08,,Technician IT Warehouse,47299.20,3,3,1,3,1
+369,Female,1976-09-17,2011-06-12,,Technician IT Warehouse,47299.20,1,2,1,2,1
+370,Female,1976-10-17,2006-08-10,,Category Manager,74000.00,3,3,2,2,3
+371,Male,1976-10-17,2011-01-31,2014-11-10,Assoc Will Call Center,25584.00,1,2,2,1,1
+372,Male,1976-10-17,2013-08-15,2014-11-10,Assoc Will Call Center,25584.00,3,2,3,2,2
+373,Female,1976-10-30,2005-04-27,2007-05-26,Sr Eng App Dev,81598.40,3,3,3,3,2
+374,Male,1976-12-29,2009-04-08,,Administrator 3rd Party,53622.40,3,2,1,2,2
+375,Female,1977-01-27,2005-04-25,,Architect,92208.74,3,2,3,2,2
+376,Male,1977-02-05,2005-02-11,,Category Manager,57750.00,2,2,2,3,3
+377,Female,1977-02-22,2006-10-21,,Architect Systems,94000.00,2,2,3,3,2
+378,Female,1977-04-07,2003-10-05,,Specialist Product Marke,43014.40,2,1,2,1,1
+379,Female,1977-07-31,2012-06-24,,Sr Eng App Dev,80000.00,3,2,2,2,2
+380,Male,1977-09-12,2006-11-09,2016-07-05,Sup Revenue AR,60000.00,3,2,3,2,3
+381,Male,1977-09-12,2015-02-17,,Sup Revenue AR,60000.00,1,3,3,2,1
+382,Female,1977-11-08,2008-09-22,,Administrator Purchasing,44990.00,3,3,1,1,1
+383,Female,1977-11-14,2005-04-18,,Category Manager,55000.00,2,2,3,2,2
+384,Female,1977-12-03,2004-12-21,,Investigations Supervisor,55000.00,1,1,1,3,2
+385,Male,1977-12-11,2013-09-04,,Coord Logistic Transport,36067.20,3,1,1,3,2
+386,Female,1977-12-30,2004-05-21,,Category Manager,70000.00,3,2,3,2,1
+387,Female,1978-01-10,2005-08-18,2014-02-08,Server System Developer,71000.00,3,1,3,2,2
+388,Female,1978-01-10,2003-08-24,,Server System Developer,71000.00,2,3,3,3,1
+389,Male,1978-01-11,2013-08-24,,Sr Analyst Corp Bus System,62000.00,2,1,2,3,1
+390,Female,1978-02-12,2010-08-08,2014-04-16,Sup Inventory Picking,44454.02,3,2,2,3,2
+391,Male,1978-03-01,2003-02-24,,Spec Seller Services,35360.00,1,1,1,2,2
+392,Female,1978-03-04,2003-12-08,,Printer Marketing Director,81599.96,2,2,2,3,2
+393,Male,1978-04-08,2004-05-25,2014-10-25,Dir Project Mgmt,77226.24,3,2,2,2,1
+394,Male,1978-05-04,2005-07-01,,Mgr Business Management,60600.00,2,1,3,2,3
+395,Female,1978-05-26,2014-09-10,,Sr Account Executive,70000.00,1,3,3,2,1
+396,Male,1978-05-26,2001-11-07,2015-09-25,Mgr Promotion Center,65650.00,1,3,2,3,2
+397,Female,1978-06-29,2005-07-07,,Dir Product Management,100092.20,3,2,3,3,3
+398,Female,1978-07-02,2005-03-14,,Manager,78479.70,1,3,3,3,3
+399,Female,1978-07-10,2005-12-19,,Merchandise Specialist,62573.00,1,3,1,3,3
+400,Female,1978-07-15,2010-10-20,,Site Search Web Specialist,40523.86,2,2,1,3,3
+401,Female,1978-07-29,2004-01-06,,Analyst Bus System,60000.00,1,2,1,1,2
+402,Female,1978-08-07,2003-05-27,2009-05-04,Account Executive Small Accounts,38251.20,1,3,3,1,1
+403,Female,1978-08-17,2010-02-09,2014-11-10,Sr Designer Digital Marketing,70000.00,1,3,3,1,2
+404,Male,1978-08-25,2012-11-01,2016-11-17,Mgr Email Mktg,55203.20,2,3,3,2,3
+405,Male,1978-09-10,2009-10-03,,Category Manager,62169.12,2,2,2,3,3
+406,Male,1978-09-16,2013-06-03,,Web Designer,48225.00,3,3,3,3,2
+407,Male,1978-11-30,2003-01-25,,Dir Financial Reporting,150000.00,3,2,2,2,2
+408,Male,1979-01-01,2008-03-27,,Stocking Associate,23108.80,2,1,1,3,3
+409,Female,1979-01-02,2005-05-22,,Category Manager,65975.00,3,3,2,2,1
+410,Female,1986-01-12,2009-10-26,,Category Manager,65975.00,3,3,2,2,2
+411,Female,1979-01-25,2015-07-13,,Account Executive,44283.20,1,2,3,2,1
+412,Male,1979-02-05,2011-10-03,,Agent Support Desk Customer Service,25210.00,3,2,2,1,2
+413,Male,1979-02-05,2003-11-18,,Agent Support Desk Customer Service,25210.00,3,2,3,1,1
+414,Female,1979-02-17,2008-09-05,,Mgr Internal Audit,122814.90,3,3,3,3,2
+415,Female,1979-04-29,2004-09-27,,Systems Engineer,56283.00,3,1,1,3,2
+416,Male,1979-06-13,2007-01-22,2009-09-10,Accountant Accounts Receivable,31720.00,2,1,1,2,2
+417,Male,1979-06-13,2007-01-22,,Accountant Accounts Receivable,31720.00,1,2,3,2,3
+418,Male,1979-07-01,2008-09-18,,Assoc Inventory Picking,22880.00,2,2,3,3,3
+419,Female,1979-07-05,2004-04-28,2012-05-21,Agent Support Desk Customer Service,25210.00,1,1,1,2,2
+420,Female,1979-07-15,2004-02-23,,Technician Desktop Support,49920.00,2,3,2,2,1
+421,Male,1979-07-28,2006-08-16,,Assoc Will Call Center,24960.00,2,2,2,3,2
+422,Female,1979-08-24,2004-09-12,,Engingeer Application Developer,64792.00,3,1,3,2,2
+423,Female,1979-08-27,2004-02-03,,Dir Product Management,101447.58,2,2,3,2,3
+424,Male,1979-09-15,2007-12-28,,Business Specialist,51250.00,3,3,3,1,1
+425,Female,1979-09-23,2007-10-01,,Sr Eng App Developer,60000.00,3,2,1,1,1
+426,Male,1979-10-06,2007-07-02,,Sup Desktop Support,66950.00,2,1,3,3,2
+427,Male,1979-11-05,2006-08-31,,Dir Dynamic Marketing,102594.70,2,3,3,3,2
+428,Female,1979-11-28,2010-08-20,,Contact Center Helpdesk,40040.00,1,3,1,1,2
+429,Female,1979-12-12,2006-08-09,,Engingeer Application Developer,70491.20,3,2,1,2,2
+430,Male,1980-01-20,2003-11-16,,Auditor,49500.10,1,3,1,2,3
+431,Female,1980-02-25,2004-09-24,,Account Executive,40809.60,2,3,1,3,3
+432,Female,1980-02-25,2006-04-27,2015-08-10,Account Executive,40809.60,1,2,1,3,3
+433,Female,1980-03-15,2011-09-19,,Account Executive,46342.40,3,3,2,1,1
+434,Female,1980-04-05,2004-07-08,,Producer Creative Design,73569.34,2,2,1,1,2
+435,Female,1980-04-05,2004-07-08,,Producer Creative Design,73569.34,1,3,3,1,3
+436,Female,1980-04-10,2011-02-11,,Stocking Associate,24960.00,3,3,1,2,2
+437,Female,1980-04-27,2005-05-10,2007-06-18,Mgr Digital Content,51142.26,2,1,1,2,3
+438,Male,1980-06-27,2006-02-08,2013-11-04,Mgr Merchandising Marketplace,60950.00,2,2,3,3,1
+439,Female,1980-07-08,2012-11-06,,Specialist Product Market,48963.20,1,3,3,1,1
+440,Female,1980-08-02,2013-03-18,,Merchandiser Server System,48000.00,2,2,1,2,2
+441,Female,1980-08-05,2014-03-17,,Inventory Lead,31678.40,2,1,1,2,2
+442,Female,1980-08-09,2014-11-18,2016-11-26,Systems Engineer,66955.20,2,2,2,2,3
+443,Female,1980-08-15,2011-02-02,,Merchandiser,56833.00,3,1,1,2,2
+444,Female,1980-12-07,2013-12-12,2014-08-04,Web Editor,55350.10,1,3,1,1,3
+445,Female,1980-09-19,2008-12-24,2013-06-03,Category Manager Warranty,71399.90,3,2,2,1,3
+446,Female,1980-10-06,2007-08-30,2015-08-24,Account Executive,52500.00,3,3,3,2,3
+447,Female,1980-10-12,2003-04-23,,Warehouse Shipping Lead,32854.00,1,1,2,1,2
+448,Female,1980-10-27,2013-07-15,2014-12-02,Web Designer,50252.80,3,1,2,2,3
+449,Male,1980-12-01,2015-05-26,,Account Executive,41412.80,3,2,3,3,3
+450,Female,1980-12-04,2007-09-16,2014-09-09,Warehouse Inventory Team Lead,31200.00,1,3,3,2,1
+451,Female,1981-01-09,2011-01-20,2014-04-21,Category Manager,66950.00,3,2,2,2,2
+452,Female,1981-01-25,2013-02-18,2017-02-22,Asst Product Manager,45450.00,1,1,3,3,2
+453,Male,1981-01-30,2004-11-23,,Merch Manager,68554.20,1,3,1,2,1
+454,Male,1981-02-09,2003-09-06,2015-07-20,Accountant AR,35360.00,1,1,3,3,1
+455,Male,1981-02-26,2006-10-15,,Stocking Associate,22880.00,3,2,1,3,1
+456,Female,1981-03-02,2006-08-21,,Merch Manager,56752.80,3,3,1,2,2
+457,Female,1981-03-05,2010-12-02,,Customer Service Representative,24960.00,3,1,2,3,3
+458,Female,1981-03-14,2013-01-24,,Packaging Associate,21320.00,3,1,2,2,1
+459,Female,1981-03-20,2004-12-24,,Senior Engineer Application Developer,69368.00,1,1,3,2,2
+460,Male,1981-04-06,2007-09-28,,Category Manager Marketing,61407.58,3,2,3,3,2
+461,Male,1981-04-06,2007-09-28,,Category Manager Marketing,61407.58,2,3,3,3,3
+462,Female,1981-04-10,2007-04-12,,Dir Product Management,115884.86,2,2,3,2,2
+463,Female,1981-08-20,2010-01-16,,Testing Engineer,69415.00,3,1,2,2,2
+464,Female,1981-06-02,2005-12-21,,Technician Maintenance,45760.00,2,3,3,2,2
+465,Female,1981-05-27,2009-11-24,,Sr Eng App Developer,73444.80,1,3,1,2,1
+466,Female,4/31/1981,2003-10-15,2013-02-18,Promotional Marketing Director,82232.28,2,3,2,2,2
+467,Male,1981-06-06,2012-10-31,2015-10-26,Assoc Inventory Picking,22880.00,2,2,3,1,1
+468,Male,1981-12-13,2003-06-22,,Sr Designer Mktg,57594.94,2,1,1,3,3
+469,Female,1981-07-05,2014-05-29,,Warehouse Associate,24960.00,1,3,1,1,3
+470,Female,1981-10-18,2013-01-04,,Account Executive Small Accounts,38002.00,1,2,2,1,2
+471,Female,1981-07-25,2009-07-26,2016-08-22,Account Executive Small Accounts,39998.00,2,1,1,2,2
+472,Female,1981-09-13,2006-10-22,,Product Manager,60091.20,3,3,3,3,2
+473,Male,1981-05-11,2014-03-17,,Dir Merchandising & Marketing,88000.12,2,3,3,3,2
+474,Male,1981-10-14,2005-10-15,2012-07-26,Sr Analyst Mkt Research,69497.74,2,2,1,3,3
+475,Female,1981-06-16,2008-01-16,2009-09-01,Sr Eng App Dev Backend,77937.60,2,3,1,3,1
+476,Female,1981-02-17,2014-02-12,,Engineer App Support,64800.00,1,2,2,3,2
+477,Male,1981-10-20,2013-04-08,,Category Manager Marketplace,65115.70,3,3,1,2,1
+478,Female,1981-07-02,2013-11-04,,Merchandise Manager,65000.00,1,3,1,3,1
+479,Female,1981-11-11,2014-04-21,2014-05-13,Merchandiser,56467.00,1,2,2,3,2
+480,Female,1981-08-01,2014-04-21,,Merchandiser,56467.00,2,1,3,1,1
+481,Female,1981-11-12,2003-11-27,,Dir Web Management,113300.00,2,2,3,3,2
+482,Female,1981-12-11,2009-02-18,,Sr Eng App Developer,79302.00,1,2,2,1,1
+483,Male,1981-12-19,2009-03-26,,Shipping Supervisor,42000.00,3,3,3,3,1
+484,Male,1981-06-01,2014-05-11,,Shipping Supervisor,42000.00,2,1,1,2,2
+485,Female,1982-01-01,2007-09-28,2015-07-13,Spec Virtual Fulfillment,50356.80,3,1,1,1,2
+486,Female,1982-01-19,2013-06-05,,Sr Engineer Application Developer,66767.98,2,2,1,1,3
+487,Female,1982-01-28,2010-04-28,,Category Manager,73440.12,3,1,3,3,1
+488,Male,1982-02-03,2007-12-14,2013-09-19,Analyst Data Mining,62400.00,3,2,1,2,2
+489,Male,1982-05-14,2006-07-15,,Stocking Associate,24960.00,3,1,1,1,2
+490,Female,1982-02-05,2011-08-05,,Engineer Application Developer,63627.20,2,3,2,2,1
+491,Female,1982-03-17,2009-05-25,,Dir International Sales,95182.88,3,2,2,2,2
+492,Male,1982-03-20,2010-11-13,,Customer Service Representative,22880.00,2,2,2,1,1
+493,Female,1982-03-31,2005-07-26,2006-06-09,Workforce Manager Customer Service,46795.58,3,1,2,3,1
+494,Male,1982-04-04,2013-09-05,2016-05-01,Sr Eng App Developer,71971.00,1,3,2,2,2
+495,Female,1982-04-18,2004-05-08,,Domain Head,108796.22,2,2,3,2,2
+496,Female,1982-05-10,2010-09-14,,Sr UI/UX Designer MIS,70379.92,1,2,2,3,2
+497,Male,1982-12-01,2005-07-17,2013-01-28,Administrator Purchasing,51313.60,1,1,2,1,2
+498,Female,1982-05-20,2010-01-27,,Mgr Mktg Marketing,63912.16,3,3,3,1,2
+499,Male,1982-06-26,2014-03-31,,Merchandising Manager,60000.00,1,3,1,1,1
+500,Female,1982-07-05,2012-05-09,2016-08-03,Sr Category Mgr,68368.82,1,3,2,3,3
+501,Male,1982-07-05,2011-04-26,,Eng App Support,55000.00,3,3,3,2,1
+502,Female,1982-07-07,2014-10-15,,Technician Desktop Support,42640.00,2,1,1,1,2
+503,Female,1982-07-18,2005-08-11,,Customer Service Representative Supervisor,48817.60,2,2,1,3,1
+504,Male,1982-07-25,2004-09-12,,Application Developer Engineer,64251.20,3,3,3,2,2
+505,Male,1982-03-02,2009-11-07,,Application Developer Engineer,64251.20,3,2,1,3,1
+506,Female,1982-07-29,2013-05-06,2017-01-09,Sr Marketing Speciliat,52187.20,1,2,2,2,3
+507,Female,1982-08-06,2011-08-22,,Contact Customer Service Supervisor,39780.00,3,1,1,2,2
+508,Male,1986-08-06,2013-08-22,2015-07-30,Contact Customer Service Supervisor,39780.00,1,3,3,1,2
+509,Female,1982-08-13,2008-03-20,,Application Support Engineer,65873.60,1,3,3,2,2
+510,Female,1982-08-17,2003-02-11,,Receiving Supervisor,53504.10,2,2,2,1,1
+511,Female,1982-09-08,2004-09-09,2011-06-13,Sr Eng App Developer,77000.00,3,2,2,3,3
+512,Male,1982-09-15,2004-08-10,2015-07-14,Merchandiser,45905.60,3,2,2,3,2
+513,Female,1982-09-16,2013-02-16,,Account Executive Regional Accounts,53040.00,2,2,3,3,2
+514,Female,1982-09-24,2011-04-16,,Sr Engineer,77001.60,1,3,1,1,1
+515,Male,1982-09-29,2008-07-27,,Ebay Specialist,41995.20,1,2,1,3,2
+516,Male,1982-10-02,2009-08-30,,Assoc Will Call Center,24169.60,1,1,2,3,2
+517,Male,1982-08-12,2007-10-28,2009-08-30,Assoc Will Call Center,24169.60,1,2,3,1,1
+518,Male,1982-10-06,2013-04-01,,Designer Email Graphic,55825.00,2,1,2,2,3
+519,Male,1982-10-27,2008-01-10,,Accountant AR,36400.00,2,3,2,2,3
+520,Female,1982-10-30,2009-12-30,,Engineer Application Developer,66000.00,2,3,3,3,2
+521,Female,1982-11-03,2008-05-07,,Category Manager,77983.36,3,2,3,3,3
+522,Female,1982-11-22,2006-02-20,,Sr Analyst Corp Bus Systems,65000.00,2,2,2,3,2
+523,Male,1982-11-27,2005-10-19,,Category Manager Video Game,58905.08,1,2,1,3,3
+524,Male,1982-12-07,2014-09-22,,Sr Accountant,60756.80,2,2,1,3,2
+525,Female,1982-12-08,2007-07-06,,Category Manager Recert Com,60091.00,1,2,2,3,3
+526,Male,1982-12-27,2005-09-16,,Customer Service Representative,29881.00,3,3,2,2,3
+527,Male,1983-04-02,2013-09-16,,Data Integration Specialist,42016.00,3,3,3,3,2
+528,Male,1983-01-23,2007-05-09,2017-12-31,Sr Mgr Financial Planning,84758.70,2,2,3,2,3
+529,Female,1983-01-26,2008-04-23,,Account Executive Small Accounts,39998.00,2,1,2,3,1
+530,Female,1983-06-02,2007-11-01,,Engineer Application Developer,78270.40,2,2,3,3,1
+531,Female,1983-01-26,2008-04-18,,Account Executive Small Accounts,39998.00,2,1,1,3,1
+532,Female,1983-01-28,2005-04-23,,Coord Imaging,39158.71,2,1,2,3,3
+533,Male,1983-02-11,2005-12-24,,Merchant Manager,70078.32,1,3,3,1,2
+534,Female,1980-01-02,2013-11-10,,Engineer Application Developer,63939.20,2,2,2,2,1
+535,Female,1983-02-25,2013-11-10,2014-10-01,Engineer Application Developer,63939.20,3,3,1,3,2
+536,Female,1983-03-29,2012-05-27,,Merchandiser Wireless,48356.00,2,3,3,1,2
+537,Male,1983-04-02,2004-12-20,,Investigator,39436.80,1,3,1,2,2
+538,Male,1987-01-16,2004-12-20,,Investigator,39436.80,2,1,1,3,2
+539,Male,1983-04-17,2011-01-01,2012-07-23,Analyst Financial,62006.88,1,1,1,1,3
+540,Female,1983-04-25,2008-07-11,,Account Executive Small Accounts,39998.00,3,1,1,1,2
+541,Male,1983-05-09,2007-09-02,,Agent Support Desk Customer Service,25833.60,3,1,1,2,3
+542,Male,1980-10-01,2011-10-29,,Agent Support Desk Customer Service,25833.60,1,1,1,2,2
+543,Female,1983-05-10,2011-12-28,,Merchandiser Desktop PC,41392.00,3,1,3,1,3
+544,Female,1983-06-01,2014-07-07,,Systems Engineer,65000.00,1,2,3,1,3
+545,Female,1983-06-27,2005-05-22,,Engineer Application Developer,72600.00,2,3,3,1,1
+546,Female,1980-10-02,2007-03-16,,Sr Category Mgr,71379.10,3,1,2,3,3
+547,Female,1983-07-04,2007-12-30,,Sr Category Mgr,71379.10,3,1,2,3,2
+548,Male,1983-07-08,2012-02-27,2012-08-13,Project Mgr IT,64130.00,1,1,2,2,1
+549,Female,1983-07-22,2008-08-12,,Sup Shipping,47742.50,2,3,1,2,1
+550,Male,1983-09-04,2011-09-12,,Analyst Data Mining,75587.20,1,1,1,2,2
+551,Male,1986-01-26,2011-09-12,,Analyst Data Mining,75587.20,2,3,3,3,1
+552,Male,1983-10-07,2012-07-15,,Analyst Fraud,34986.00,2,2,2,1,2
+553,Female,1983-10-14,2007-12-28,,Customer Service Representative Help Desk,25875.00,1,1,2,1,3
+554,Female,1985-01-04,2010-12-31,,Customer Service Representative Help Desk,25875.00,1,2,2,2,1
+555,Female,1983-10-30,2011-07-14,,Sr Eng App Developer,73507.20,2,3,1,1,1
+556,Female,1983-11-10,2009-10-26,,Sr Category Manager Development,79309.88,2,3,1,3,2
+557,Male,1983-12-01,2006-10-22,,Shipping Supervisor,48897.68,3,2,2,3,3
+558,Female,1983-12-10,2004-12-20,,Account Mgr Small Business Accounts,55000.00,3,3,2,2,1
+559,Male,1987-01-02,2015-12-20,,Account Mgr Small Business Accounts,55000.00,2,2,3,3,2
+560,Male,1983-12-21,2007-06-18,,Analyst Corp Bus Systems,56077.84,3,1,1,2,3
+561,Female,1984-01-15,2003-08-06,,Business Specialist,64708.80,2,3,2,1,3
+562,Female,1984-01-20,2003-07-01,,CPU Merchandiser,48193.60,3,1,2,2,1
+563,Female,1984-04-27,2007-02-26,2014-10-20,Asst Mgr Promotions Marketing,40851.20,3,1,2,2,3
+564,Male,1984-05-07,2011-07-05,,Merchandise Manager,54285.00,1,3,3,2,3
+565,Male,1984-05-12,2010-01-10,2014-09-22,Marketing Specialist,48963.20,3,3,2,3,2
+566,Female,1984-05-22,2011-12-16,,Engineer Application Developer,70000.00,2,1,3,2,2
+567,Female,1984-06-18,2010-08-22,2016-04-11,Engineer Application Developer,72000.00,3,1,3,2,2
+568,Male,1984-06-22,2013-07-01,,Marketing Mgr Canada,60190.00,3,1,1,2,2
+569,Male,1984-06-28,2012-10-29,,Accounts Payable Supervisor,45000.00,2,3,3,1,3
+570,Female,1984-07-22,2006-05-22,,Account Executive Small Accounts,40191.96,3,2,1,1,3
+571,Male,1984-07-30,2006-09-06,,Category Manager,70000.00,3,2,3,3,3
+572,Male,1984-08-02,2014-02-10,,Small Business Markets Specialist,55000.00,3,1,2,3,3
+573,Female,1984-08-16,2009-03-31,,Sr Manager of Commerce,85600.06,2,2,3,2,3
+574,Female,1984-10-09,2004-09-24,,Sr HR Business Partner,72000.00,1,2,2,2,3
+575,Female,1984-10-19,2005-11-11,,Spec Bus Intel,73143.00,3,2,2,3,1
+576,Female,1984-10-23,2011-03-11,,Sr Eng App Developer,72010.00,2,2,2,2,2
+577,Male,1984-10-25,2007-04-30,,Category Manager,59193.68,2,2,2,3,3
+578,Male,1984-11-13,2007-10-08,,Agent Support Desk Customer Service,33092.80,1,1,1,3,1
+579,Male,1984-06-13,2004-02-07,,Agent Support Desk Customer Service,33092.80,3,1,3,2,3
+580,Female,1984-11-17,2010-10-04,,Administrator Purchasing,50561.00,1,3,2,1,2
+581,Male,1984-01-27,2007-02-05,,Shipping Lead,31200.00,3,2,1,3,2
+582,Female,1985-01-19,2006-06-09,,Sup Transportation,40060.80,1,3,2,2,3
+583,Female,1985-01-24,2005-12-05,,Sup Vendor Credit Collection,38958.40,1,2,3,1,1
+584,Female,1985-02-01,2013-04-01,,Category Manager,60000.00,2,3,3,2,1
+585,Female,1985-04-04,2008-11-04,,Content Manager,56596.80,1,3,3,2,3
+586,Female,1985-02-11,2007-05-07,,Will Call Manager,50218.48,3,3,3,1,1
+587,Female,1990-08-01,2009-05-07,,Will Call Associate,32100.00,2,3,3,2,1
+588,Female,1985-03-03,2009-08-19,,Spec Transportation Int,55000.00,1,3,1,3,3
+589,Female,1985-03-23,2004-01-08,,Merchandiser,47840.00,3,2,2,1,1
+590,Female,1985-11-02,2007-06-11,,Sup Warehouse Inventory,42000.00,2,2,1,1,3
+591,Male,1985-03-30,2005-02-15,,Sr Spec Marketing,50398.40,1,1,2,2,3
+592,Female,1985-05-28,2003-10-09,,Asst Product Manager,50000.00,2,1,3,2,1
+593,Female,1985-06-23,2011-12-29,,Mgr Sales Channel Mgmt,54356.38,3,1,3,3,1
+594,Female,1985-04-02,2012-01-18,,Mgr Sales Channel Mgmt,54356.38,1,3,1,2,2
+595,Male,1985-07-03,2008-09-24,,Sr Analyst Market Research,69166.24,3,2,2,1,1
+596,Male,1985-07-27,2003-11-06,,Asst Admin GA,35360.00,3,1,3,1,1
+597,Male,1985-08-15,2005-03-12,,Agent QC Monitoring,38988.00,3,3,1,1,3
+598,Female,1985-09-28,2010-11-07,,Sr Editor Marketing,77000.04,1,2,3,1,3
+599,Female,1985-10-29,2008-09-28,,Merchandiser,45000.00,2,1,3,1,1
+600,Male,1985-11-08,2007-07-21,,Merchandiser Monitor,48068.80,2,3,3,2,1
+601,Male,1985-11-11,2005-09-27,,Promotions Manager,57909.54,3,3,3,3,2
+602,Male,1985-11-26,2006-01-09,2015-10-18,Office Coordinator,36171.20,3,3,3,2,3
+603,Female,1985-12-24,2004-01-17,,Sr Category Mgr,66550.12,1,2,2,3,3
+604,Female,1986-01-05,2008-03-30,2016-05-09,Technician Desktop Support,41600.00,1,3,1,2,1
+605,Female,1986-01-20,2006-06-12,,Customer Service Representative,28080.00,3,2,3,3,3
+606,Female,1986-02-01,2005-04-10,,Analyst Business Applications,63160.00,3,1,3,1,2
+607,Male,1986-02-05,2011-05-22,2013-05-01,Merchandiser Cable,47187.00,1,3,3,1,2
+608,Female,1986-02-08,2006-10-09,2011-12-21,Mgr Seller Services,52004.68,1,3,1,3,3
+609,Female,1986-03-17,2004-04-26,2016-01-18,Merchandiser,47507.00,3,1,1,2,1
+610,Female,1986-03-21,2004-12-11,2013-11-26,Business Specialist,61380.80,2,2,3,1,1
+611,Male,1986-04-21,2006-02-17,,Spec Promotions,39707.20,1,1,2,1,2
+612,Male,1986-04-28,2011-10-28,2012-11-12,Sr Spec Remarketing,55702.40,1,3,1,3,3
+613,Female,1986-06-09,2009-10-12,,Testing Engineer,63003.00,2,2,3,2,3
+614,Male,1986-05-11,2007-08-30,,Inventory Retrieving Associate,21257.60,1,1,1,1,2
+615,Male,1986-06-24,2014-01-23,,Merchandiser,48152.00,2,2,1,1,1
+616,Female,1986-08-10,2014-08-11,,Customer Service Representative,21840.00,3,1,2,1,3
+617,Male,1986-08-12,2008-08-28,,Supervisor,42000.00,3,2,3,3,2
+618,Female,1986-08-01,2007-05-03,,Content Specialist,50000.00,3,2,3,3,3
+619,Female,1989-01-12,2009-01-22,2013-08-19,Photographer Imaging,39458.00,1,1,1,1,3
+620,Female,1986-08-17,2010-10-13,,Photographer Imaging,39458.00,2,2,3,3,1
+621,Male,1986-08-30,2010-07-07,,Agent Support Desk Customer Service,27768.00,2,1,1,3,3
+622,Female,1986-10-03,2011-10-30,2012-10-29,Category Manager,59217.60,2,2,3,3,3
+623,Male,1986-09-02,2013-04-09,,Merch Manager,54000.00,2,3,3,1,2
+624,Female,1986-09-05,2006-01-13,2015-08-19,Customer Service Representative,33779.20,3,3,3,3,3
+625,Male,1986-09-11,2008-03-03,,Sr Spec Email Promotion,49046.40,3,3,1,1,2
+626,Female,1986-10-04,2006-12-18,,Merchandiser,52000.00,3,3,2,1,2
+627,Male,1986-10-09,2011-07-21,,Customer Support,27206.40,1,1,1,1,1
+628,Female,1986-10-31,2014-09-15,2016-03-17,Sr Eng Network,75000.00,3,1,1,2,3
+629,Female,1986-11-21,2009-11-14,,Inventory Retrieving Associate,21216.00,1,1,2,1,3
+630,Male,1986-11-28,2006-06-30,2016-05-09,Customer Service Representative,24960.00,3,3,1,2,1
+631,Female,1986-12-16,2008-08-29,,Marketing Specialist,42000.00,3,2,2,3,3
+632,Female,1972-01-16,2014-05-16,2015-01-12,Marketing Manager,60000.00,1,2,1,1,1
+633,Female,1987-02-27,2015-01-13,,Systems Engineer,72800.00,3,1,3,2,3
+634,Female,1987-03-30,2012-12-30,,Rep Hybrid Center Customer Service,35360.00,1,2,1,1,1
+635,Male,1987-04-16,2009-11-09,2014-10-27,Shipping Lead,31200.00,3,3,2,3,3
+636,Female,1987-05-07,2007-03-11,,Customer Service Representative,23233.60,1,1,1,2,2
+637,Female,1987-04-24,2015-09-02,,Agent Support Desk Customer Service,25272.00,1,1,3,3,2
+638,Female,1987-06-02,2013-10-14,,Category Manager,50086.40,2,3,2,3,3
+639,Male,1987-05-27,2006-08-12,2013-03-18,Administrator Purchasing,46280.00,1,1,1,1,2
+640,Female,1987-06-26,2007-01-03,,Rep Customer Retention,26407.00,1,3,3,3,3
+641,Male,1987-06-30,2006-12-06,2012-12-13,Spec Seller Services,36067.20,1,3,1,3,3
+642,Male,1987-03-03,2006-12-06,,Spec Seller Services,36067.20,2,3,3,3,3
+643,Male,1987-07-03,2014-05-12,,Shipping Supervisor,42420.04,3,2,2,3,3
+644,Female,1987-12-06,2012-04-10,,Spec Knowledge Management,34132.80,1,2,3,3,3
+645,Male,1987-07-10,2005-09-22,2016-01-11,Administrator Purchasing,44595.00,3,2,2,3,2
+646,Female,1987-08-07,2014-02-15,,Account Executive Small Accounts,38002.00,2,3,3,3,2
+647,Female,1987-10-09,2012-05-11,,Marketing Manager,63000.08,3,1,1,1,1
+648,Male,1987-11-29,2009-10-07,2013-09-23,Web Designer,53530.00,3,3,1,2,3
+649,Female,1988-04-05,2013-10-01,,Category Manager,60000.00,2,2,3,2,3
+650,Female,1988-02-13,2014-04-14,,Business Analyst,49940.80,2,2,2,2,1
+651,Female,1988-06-03,2007-10-12,2014-04-14,Business Analyst,49940.80,1,3,1,2,3
+652,Male,1988-02-25,2010-02-23,,Customer Service Representative,25022.40,3,1,3,3,1
+653,Male,1988-03-25,2006-11-08,,Analyst Fraud,34320.00,3,1,2,2,1
+654,Male,1988-04-08,2013-09-17,,Inventory Retrieving Associate,21216.00,2,2,2,2,2
+655,Female,1988-04-08,2013-03-15,,Spec Search Engine Marketing,44886.40,3,3,1,2,1
+656,Female,1988-06-18,2012-09-04,,Category Manager,62226.06,3,3,3,2,3
+657,Male,1988-06-30,2008-03-09,,Customer Service Representative,24960.00,3,1,2,1,2
+658,Male,1988-08-18,2014-04-02,2014-10-06,Assistant Category Manager,54995.20,1,2,3,1,3
+659,Female,1988-11-09,2012-06-25,,Merchandiser,45739.20,1,2,3,3,1
+660,Male,1988-08-02,2011-02-10,,General Agent,25189.00,3,1,1,1,3
+661,Male,1988-10-16,2013-01-11,,Spec Business Management,56100.00,2,1,2,1,1
+662,Male,1988-06-04,2007-10-02,2014-02-03,Content Specialist,41204.80,2,3,1,3,3
+663,Female,1988-11-02,2007-06-23,,Content Specialist,45760.00,2,3,3,2,3
+664,Male,1988-01-01,2013-09-05,,Merchandiser,51126.40,2,2,1,2,2
+665,Male,1988-11-13,2012-06-28,,Assistant Category Manager,54828.80,2,1,2,1,2
+666,Male,1988-12-01,2012-07-24,,Customer Service Representative,23857.60,2,3,3,2,3
+667,Male,1988-03-22,2013-09-20,,Merchandiser,50000.00,3,3,1,1,3
+668,Female,1989-05-02,2011-08-27,,Lead Inventory Picking,31200.00,2,3,3,1,1
+669,Female,1989-05-13,2010-06-17,,Stocking Associate,24960.00,3,3,2,1,3
+670,Female,1989-08-06,2013-12-26,,Sr Helpdesk Coordinator,41600.00,1,3,3,3,1
+671,Male,1989-06-16,2012-07-18,2013-12-26,Sr Helpdesk Coordinator,41600.00,2,3,3,1,1
+672,Male,1989-07-15,2014-06-14,,Merchandiser,50000.00,3,1,2,2,2
+673,Female,1989-08-30,2008-06-21,,Shipping Associate,27040.00,3,2,2,1,2
+674,Male,1989-09-02,2013-04-02,,Asst Workforce Mgmt,26707.20,3,1,2,1,3
+675,Male,1989-11-10,2010-07-24,2013-04-02,Asst Workforce Mgmt,26707.20,2,2,2,2,2
+676,Female,1989-09-04,2008-02-03,,Video Editor,60008.00,1,2,3,2,3
+677,Female,1989-09-12,2009-10-16,,Support Desk Agent,25189.00,3,2,3,2,1
+678,Female,1989-02-03,2012-05-08,,Support Desk Agent,25189.00,1,3,3,2,1
+679,Female,1989-12-03,2010-12-25,2014-11-10,Customer Service Representative,32136.00,3,3,3,1,1
+680,Male,1986-01-16,2015-09-21,,Account Executive,54995.20,1,3,3,3,2
+681,Male,1990-02-03,2009-12-22,2014-06-30,Business Specialist,40060.80,2,1,1,3,3
+682,Male,1990-12-23,2010-12-07,,Business Specialist,40060.80,1,2,2,2,1
+683,Female,1990-02-07,2012-10-17,2017-03-11,Agent QC Monitoring,35360.00,1,2,3,2,2
+684,Male,1990-12-02,2013-07-16,,Agent QC Monitoring,35360.00,3,2,2,1,2
+685,Female,1990-04-23,2015-08-24,,Stocking Associate,25209.60,3,2,1,3,3
+686,Female,1990-08-02,2010-10-09,,Customer Service Representative,22880.00,3,1,2,2,2
+687,Female,1990-05-10,2015-02-11,,Lead Customer Relations,27040.00,3,2,3,2,1
+688,Male,1990-06-11,2009-07-27,,Merchandiser,43867.20,3,1,1,1,3
+689,Female,1990-02-19,2014-11-17,,Receiving Associate,23109.00,1,2,2,3,3
+690,Female,1986-06-21,2015-08-18,,Account Mgr Marketplace,55016.00,2,1,2,2,1
+691,Female,1990-07-05,2010-02-15,,Inventory Receiving Lead,29577.60,2,3,2,2,1
+692,Female,1990-07-12,2012-09-14,,Agent Public Image Customer Service,25542.40,1,2,3,2,3
+693,Female,1990-12-01,2009-06-19,2013-05-28,Assistant Human Resource Info Systems,35484.80,2,1,2,3,1
+694,Male,1990-07-30,2011-04-02,2011-10-31,Customer Service Representative Help Desk,25958.40,3,2,2,2,3
+695,Female,1990-08-02,2013-11-30,2015-10-05,Stocking Associate,21840.00,2,2,1,3,2
+696,Male,1990-06-27,2012-07-04,,Customer Service Representative,24960.00,3,2,1,3,3
+697,Female,1990-06-08,2014-01-28,,Management Trainee,41246.40,3,2,2,2,1
+698,Female,1990-09-12,2016-01-19,,Coach Training,38771.20,1,3,2,3,1
+699,Male,1984-09-26,2010-11-22,,Fraud Preventiion Supervisor,48369.00,1,1,1,1,3
+700,Female,1987-10-21,2008-10-21,,Sr Marketing Designer,58302.40,2,2,2,1,1
+701,Male,1990-10-29,2012-03-16,,Inventory Retrieving Associate,21216.00,3,1,2,2,1
+702,Female,1990-11-15,2014-11-06,,Mgr Merchandising Marketplace,50273.60,3,1,3,3,3
+703,Female,1987-11-22,2006-08-24,,Content Specialist,49150.40,2,2,2,3,2
+704,Male,1990-12-27,2012-06-06,,Promotions Specialist,37003.00,3,1,2,3,1
+705,Male,1991-01-24,2013-06-22,2016-06-20,Shipping Manager,31200.00,1,1,2,2,3
+706,Female,1991-02-11,2015-11-26,,Account Manager,57034.00,2,1,2,1,1
+707,Female,1991-03-21,2011-04-03,,Customer Service Representative,24960.00,3,3,3,2,2
+708,Male,1991-07-08,2015-11-23,,Spec QA Promotion Center,39520.00,2,2,3,3,1
+709,Male,1989-03-24,2014-10-28,2017-03-07,Category Manager,60000.00,2,2,2,3,2
+710,Female,1991-06-13,2014-06-04,,Administrative Assistant,29702.40,3,3,2,3,3
+711,Female,1991-06-26,2010-10-15,2013-09-30,Agent Public Image Customer Service,25459.20,3,3,2,3,3
+712,Female,1991-11-04,2011-05-02,,Warehouse Associate,26000.00,1,3,3,1,2
+713,Male,1991-11-18,2014-05-08,,Administrator Purchasing,43243.20,3,2,1,2,1
+714,Male,1991-10-01,2015-02-12,2017-09-15,Agent Support Desk Customer Service,25043.00,2,2,3,3,3
+715,Male,1991-11-20,2013-11-04,2014-02-26,Rep Customer Retention,24960.00,2,2,2,3,1
+716,Male,1992-01-22,2011-02-15,2016-02-22,Spec Promotion Email,44574.00,3,1,2,3,1
+717,Female,1992-01-07,2012-06-28,,Inventory Receiving Associate,24044.80,3,3,3,1,2
+718,Male,1992-04-27,2015-10-21,,Assistant Category Manager,46000.00,2,3,1,1,2
+719,Female,1992-09-01,2013-03-01,,eBay Customer Support,25542.00,3,1,2,2,1
+720,Male,1989-09-13,2015-05-05,,Sr Accounts Receivable,40019.00,3,1,3,1,2
+721,Female,1992-10-22,2011-05-10,,Assoc Will Call Center,27456.00,1,1,3,2,1
+722,Female,1992-06-02,2012-09-05,2014-10-27,Assoc Will Call Center,27456.00,1,3,1,3,1
+723,Male,1992-10-28,2012-04-21,2014-11-10,Spec Targeted Promotion,43056.00,1,3,1,2,1
+724,Female,1993-01-04,2014-06-02,,Lead IQC Testing,27456.00,1,1,2,3,3
+725,Male,1993-01-10,2015-10-28,2016-04-25,Asst Admin GA,35360.00,2,2,1,2,2
+726,Male,1990-01-11,2010-02-28,,Fraud Analyst,34320.00,3,1,3,2,2
+727,Male,1993-02-05,2012-05-21,2014-06-11,Account Executive Small Accounts,42000.00,3,3,1,3,3
+728,Female,1993-03-16,2011-07-24,2013-04-02,Analyst Fraud,34986.00,3,2,2,1,1
+729,Female,1993-07-17,2012-11-28,,Customer Service Representative,22880.00,3,1,3,2,1
+730,Female,1993-08-04,2015-05-03,,Customer Service Representative,22880.00,2,2,1,1,2
+731,Female,1993-09-07,2015-04-14,2018-06-30,IQC Tester,21840.00,1,3,1,1,1
+732,Male,1993-10-20,2016-08-16,,Inventory Associate,27040.00,3,3,1,3,2
+733,Female,1990-01-10,2013-09-21,2014-11-17,Inventory Lead,27040.00,1,1,1,2,2
+734,Male,1994-02-10,2016-02-18,,Agent Public Image Customer Service,24960.00,2,2,1,2,2
+735,Female,1994-04-04,2014-07-02,,Lead Stocker Logistics,31200.00,2,3,3,2,3
+736,Male,1994-05-14,2013-03-16,,Customer Service Representative,24960.00,3,3,1,3,1
+737,Male,1994-07-06,2012-10-05,2014-08-18,Customer Service Representative,22880.00,3,3,1,3,2
+738,Male,1994-09-27,2014-12-28,,Customer Support Representative,25875.00,1,2,2,3,2
+739,Female,1994-11-08,2013-07-14,,IQC Tester,21840.00,1,2,2,1,3
+740,Male,1990-02-01,2013-05-22,2016-09-12,Email Promotions Specialist,44720.00,2,3,2,2,1
+741,Male,1995-03-27,2016-09-19,2017-08-18,Agent Public Image Customer Service,25334.40,2,3,1,3,2
+742,Female,1995-09-10,2016-05-24,,Analyst Fraud Fraud Prevention,35006.40,3,1,2,1,2
+743,Male,1995-12-03,2015-11-19,,Customer Service Representative,24960.00,3,1,3,3,2
+744,Male,1996-05-14,2015-04-16,2016-09-12,Inventory Retrieving Associate,21840.00,2,2,2,2,1
+745,Female,1996-06-10,2016-12-07,,Inventory Receiving Associate,24960.00,1,2,3,3,3
+746,Female,1996-04-30,2014-04-26,,Inventory Retrieving Associate,22880.00,2,1,1,1,1
+747,Female,1996-07-20,2014-08-10,2016-03-14,Inventory Retrieving Associate,24960.00,3,1,1,2,1
